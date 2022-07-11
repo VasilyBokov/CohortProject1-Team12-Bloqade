@@ -2,7 +2,7 @@
 Ruolan Xue, Seung Hwan Lee, Peter Nisbet-Jones, Agata Rakowiecka, Vasily Bokov
 
 
-In this repository one an find Tasks 1-4 for the CDL Cohort project 1. Also below there are links for the presentation and a short explanation video. 
+In this repository one can find Tasks 1-4 for the CDL Cohort project 1. Also below there are links for the presentation and a short explanation video. 
 
 
 
